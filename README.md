@@ -2,7 +2,7 @@
 
 This is my learning project, built as part of my journey to master **Next.js**, **React**, and **TailwindCSS**. The goal of this project is to apply concepts like:
 
-- Dynamic routing
+- Dynamic routing 
 - Layouts and shared components
 - Database integration with PostgreSQL
 - Client-side and server-side rendering
